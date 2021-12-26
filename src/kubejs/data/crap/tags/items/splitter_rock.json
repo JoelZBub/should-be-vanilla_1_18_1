@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rocks:cobblestone_splitter",
+    "rocks:granite_splitter",
+    "rocks:diorite_splitter",
+    "rocks:andesite_splitter",
+    "rocks:sandstone_splitter",
+    "rocks:red_sandstone_splitter"
+  ]
+}

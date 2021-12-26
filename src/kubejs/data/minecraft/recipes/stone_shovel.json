@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "crap:splitter_rock"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_shovel"
+  }
+}

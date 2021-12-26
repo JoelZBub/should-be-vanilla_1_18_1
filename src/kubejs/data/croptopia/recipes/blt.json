@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "croptopia:toast"
+    },
+    {
+      "item": "minecraft:cooked_porkchop"
+    },
+    {
+      "item": "croptopia:lettuce"
+    },
+    {
+      "item": "croptopia:tomato"
+    }
+  ],
+  "result": {
+    "item": "croptopia:blt",
+    "count": 1
+  }
+}
