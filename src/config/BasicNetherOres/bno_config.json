@@ -317,7 +317,7 @@
       "value": 16
     },
     "protectedBlocks": {
-      "comment": "Add Blocks to be protected by Piglins (Example: minecraft:glowstone, bno:netheremerald_ore, ect. )",
+      "comment": "***This is dealt with in the vanilla MC Tags ***Add Blocks to be protected by Piglins (Example: minecraft:glowstone, bno:netheremerald_ore, ect. )",
       "value": [
         "bno:netheremerald_ore",
         "bno:netherdiamond_ore",
@@ -341,6 +341,28 @@
     "silkEffect": {
       "comment": "Set to false if you want the Piglins to attack when using Silk Touch Tools (Default: true)",
       "value": true
+    }
+  },
+  "zincOre": {
+    "zincMinHeight": {
+      "comment": "Set Zinc Min Spawn Height (Default: 55)",
+      "value": 55
+    },
+    "zincVeinSize": {
+      "comment": "Set Max Zinc Vein Size (Default: 12)",
+      "value": 12
+    },
+    "zincPerChunk": {
+      "comment": "Set Zinc Spawn Chance (Default: 8)",
+      "value": 8
+    },
+    "zincMaxHeight": {
+      "comment": "Set Zinc Max Spawn Height (Default: 100)",
+      "value": 100
+    },
+    "zincGeneration": {
+      "comment": "Generate Zinc Ore",
+      "value": false
     }
   }
 }

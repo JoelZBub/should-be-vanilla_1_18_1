@@ -292,6 +292,17 @@
     "betternether:black_bush": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "wilderworld:aspen_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "wilderworld:wisteria_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
-  }
+  },
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 1.8,
+  "winterSpawnRateFactor": 0.1
 }

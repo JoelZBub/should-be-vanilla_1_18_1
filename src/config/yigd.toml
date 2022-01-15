@@ -18,10 +18,6 @@ graveSpawnHeight = 2
 lastResort = "DROP_ITEMS"
 defaultXpDrop = false
 xpDropPercent = 50
-renderGraveSkull = true
-renderGraveOwner = true
-adaptRenderer = false
-glowingGrave = false
 tellDeathPos = true
 
 [graveSettings.graveRobbing]
@@ -43,6 +39,15 @@ inOverWorld = "minecraft:cobblestone"
 inNether = "minecraft:soul_soil"
 inTheEnd = "minecraft:end_stone"
 inCustom = "minecraft:dirt"
+
+[graveSettings.graveRenderSettings]
+useRenderFeatures = true
+renderGraveSkull = true
+renderGraveOwner = true
+textShadow = true
+adaptRenderer = false
+glowingGrave = false
+glowMinDistance = 10
 [utilitySettings]
 soulboundEnchant = true
 [commandToggles]

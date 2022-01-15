@@ -12,6 +12,7 @@
 		"enabled": true,
 		"disableShiftClick": false,
 		"drawOverlay": true,
+		"restoreDefaults": false,
 		"items": [
 			"minecraft:spawner",
 			"minecraft:dragon_egg",

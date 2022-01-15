@@ -232,6 +232,16 @@ mode = "fancy"
 			[light_sources.settings.entities.unvotedandshelved]
 				glare = true
 
+			[light_sources.settings.entities.capybara]
+				capybara = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				flying_pig = true
+				hydrogen_jellyfish = true
+				skull = true
+				naga = true
+
 			[light_sources.settings.entities.throwabletorch]
 				throwable_magma_torch = true
 				throwable_clay_torch = true
@@ -241,11 +251,17 @@ mode = "fancy"
 			[light_sources.settings.entities.terraform]
 				boat = true
 
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+
 			[light_sources.settings.entities.ottercraft]
 				otter = true
 
 			[light_sources.settings.entities.adorn]
 				seat = true
+
+			[light_sources.settings.entities.boatcontainer]
+				chest_boat = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true

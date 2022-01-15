@@ -12,13 +12,13 @@ onEvent('recipes', event => {
   event.remove({output: 'vanillaexcavators:wooden_excavator'})
 
   // --------- REMOVE MISCELLANEOUS BY OUTPUT --------- //
-  event.remove({output: 'allure:lit_redstone_lamp'})
-  event.remove({output: 'betterend:crystalline_sulfur'})
+  //event.remove({output: 'allure:lit_redstone_lamp'})
+  //event.remove({output: 'betterend:crystalline_sulfur'})
   event.remove({output: 'croptopia:guide'})
 
   // --------- REMOVE MISCELLANEOUS BY RECIPE ID --------- //
-  event.remove({ id: "minecraft:bone_meal"})
-  event.remove({ id: "minecraft:bone_meal_from_bone_block"})
+  //event.remove({ id: "minecraft:bone_meal"})
+  //event.remove({ id: "minecraft:bone_meal_from_bone_block"})
   event.remove({ id: "minecraft:white_dye"})
 
   // --------- ADD MISCELLANEOUS --------- //

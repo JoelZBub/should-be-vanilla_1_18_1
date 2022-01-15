@@ -62,7 +62,9 @@
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
-			"filteredStacks": []
+			"filteredStacks": [
+				"{Count:1b,id:\"croptopia:rhubarb_pie\",type:\"minecraft:item\"}"
+			]
 		},
 		"enableJeiCompatibilityLayer": true,
 		"tooltips": {
@@ -149,6 +151,8 @@
 	"functionality": {
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true
