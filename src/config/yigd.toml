@@ -50,5 +50,10 @@ glowingGrave = false
 glowMinDistance = 10
 [utilitySettings]
 soulboundEnchant = true
+teleportScroll = false
 [commandToggles]
 retrieveGrave = true
+robGrave = true
+selfView = true
+adminView = true
+moderateGraves = true

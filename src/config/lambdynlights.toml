@@ -232,6 +232,18 @@ mode = "fancy"
 			[light_sources.settings.entities.unvotedandshelved]
 				glare = true
 
+			[light_sources.settings.entities.throwabletorch]
+				throwable_magma_torch = true
+				throwable_clay_torch = true
+				throwable_honeycomb_torch = true
+				throwable_slime_torch = true
+
+			[light_sources.settings.entities.ottercraft]
+				otter = true
+
+			[light_sources.settings.entities.adorn]
+				seat = true
+
 			[light_sources.settings.entities.capybara]
 				capybara = true
 
@@ -242,26 +254,27 @@ mode = "fancy"
 				skull = true
 				naga = true
 
-			[light_sources.settings.entities.throwabletorch]
-				throwable_magma_torch = true
-				throwable_clay_torch = true
-				throwable_honeycomb_torch = true
-				throwable_slime_torch = true
+			[light_sources.settings.entities.guardiansgalore]
+				bear = true
 
 			[light_sources.settings.entities.terraform]
 				boat = true
 
+			[light_sources.settings.entities.wilderworld]
+				butterfly = true
+
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
-
-			[light_sources.settings.entities.ottercraft]
-				otter = true
-
-			[light_sources.settings.entities.adorn]
-				seat = true
+				moobloom = true
 
 			[light_sources.settings.entities.boatcontainer]
 				chest_boat = true
+
+			[light_sources.settings.entities.llamarama]
+				bumble_llama = true
+				caravan_trader = true
+				mossy_llama = true
+				woolly_llama = true
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
