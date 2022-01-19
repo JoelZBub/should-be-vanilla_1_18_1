@@ -2,6 +2,49 @@ Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
 
+Jan 18, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.4.0
+Minecraft Version : 1.18.1
+Fabric Version : 0.12.12
+
+-- Updated Mods --
+------------------
+GeckoLib - 3.0.25 to 3.0.27
+Red Bits - 1.11.0 to 1.12.0
+Reinforced Barrels - 1.0.5 to 1.0.6
+Reinforced Chests - 1.0.5 to 1.0.6
+Reinforced Shulker Boxes - 1.1.7 to 1.1.8
+You're in Grave Danger - 1.2.12 to 1.2.13
+
+
+-- Added Mods --
+----------------
+Elytra Protection (PieKing1215)
+
+
+--Removed/Disabled Mods --
+--------------------------
+Vanilla Hammers
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Customization -
+------------------
+
+
+
 Jan 15-17, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.4.0
@@ -15,9 +58,13 @@ Advanced Netherite - 1.3.1 to 1.4.0
 Balm - 2.4.0+0 to 2.4.1+0
 Fabric API - 0.46.0 to 0.46.1
 Friends&Foes - 1.1.2 to 1.2.0
-GeckoLib - 3.0.25 to 3.0.26
+GeckoLib - 3.0.25 to 3.0.27
 Llamarama - 1.5.0 to 1.5.1
 More Villagers - 3.1.0 to 3.1.1
+Red Bits - 1.11.0 to 1.12.0
+Reinforced Barrels - 1.0.5 to 1.0.6
+Reinforced Chests - 1.0.5 to 1.0.6
+Reinforced Shulker Boxes - 1.1.7 to 1.1.8
 Repurposed Structures - 3.2.0 to 3.3.0
 Restock - 1.0.1 to 1.1.0
 Roughly Enough items - 7.1.368 to 7.1.390
@@ -28,10 +75,10 @@ You're in Grave Danger - 1.2.11 to 1.2.12
 
 -- Added Mods --
 ----------------
+Elytra Protection (PieKing1215)
 Flonters (yoghurt4c)
 Gamma Utils (Sjouwer)
 Pet Transfer (emirik0l)
-Pluckable Arrows (DeflatedPickle)
 Restock (DeflatedPickle)
 Sodium Shadowy Path Blocks 
 	- Now compatibile with Sodium 0.4.0-Alpha6
@@ -42,6 +89,7 @@ Villager Leads (exlinegames)
 --------------------------
 Leftist Potions 
 	- this option is available in REI
+Vanilla Hammers
 
 -- Config Changes --
 --------------------
