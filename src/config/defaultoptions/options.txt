@@ -19,15 +19,15 @@ toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
-mouseSensitivity:0.4295774647887324
+mouseSensitivity:0.41079812206572774
 fov:0.15
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.0
-renderDistance:10
-simulationDistance:12
+renderDistance:9
+simulationDistance:11
 entityDistanceScaling:1.0
-guiScale:2
+guiScale:3
 particles:0
 maxFps:260
 difficulty:2
@@ -38,7 +38,7 @@ biomeBlendRadius:2
 renderClouds:false
 resourcePacks:["vanilla","Fabric Mods"]
 incompatibleResourcePacks:[]
-lastServer:localhost
+lastServer:
 lang:en_us
 soundDevice:
 chatVisibility:0

@@ -3,6 +3,7 @@
     "carpetCtrlQCraftingEnabledOnServer": false,
     "clientCraftingFixOn1.12": true,
     "craftingRenderRecipeItems": true,
+    "modMainToggle": true,
     "packetRateLimit": 4,
     "rateLimitClickPackets": false,
     "craftingRecipesSaveToFile": true,
@@ -19,6 +20,126 @@
       "settings": {
         "activate_on": "PRESS",
         "context": "INGAME",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "toggleModOnOff": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": true,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "craftEverything": {
+      "keys": "LEFT_CONTROL,C",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "dropAllMatching": {
+      "keys": "LEFT_CONTROL,LEFT_SHIFT,Q",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "massCraft": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,C",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "moveCraftResults": {
+      "keys": "LEFT_CONTROL,M",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "recipeView": {
+      "keys": "A",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": false
+      }
+    },
+    "slotDebug": {
+      "keys": "LEFT_CONTROL,LEFT_ALT,LEFT_SHIFT,I",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "storeRecipe": {
+      "keys": "BUTTON_3",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": true,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "throwCraftResults": {
+      "keys": "LEFT_CONTROL,T",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
+        "allow_empty": false,
+        "allow_extra_keys": false,
+        "order_sensitive": false,
+        "exclusive": false,
+        "cancel": true
+      }
+    },
+    "villagerTradeFavorites": {
+      "keys": "",
+      "settings": {
+        "activate_on": "PRESS",
+        "context": "GUI",
         "allow_empty": false,
         "allow_extra_keys": false,
         "order_sensitive": true,
@@ -72,18 +193,6 @@
         "order_sensitive": false,
         "exclusive": false,
         "cancel": false
-      }
-    },
-    "keyMoveEverything": {
-      "keys": "LEFT_ALT,LEFT_SHIFT,BUTTON_1",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
       }
     },
     "keyDragMoveStacks": {
@@ -170,134 +279,14 @@
         "cancel": true
       }
     },
-    "craftEverything": {
-      "keys": "LEFT_CONTROL,C",
+    "keyMoveEverything": {
+      "keys": "LEFT_ALT,LEFT_SHIFT,BUTTON_1",
       "settings": {
         "activate_on": "PRESS",
         "context": "GUI",
         "allow_empty": false,
         "allow_extra_keys": false,
         "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "dropAllMatching": {
-      "keys": "LEFT_CONTROL,LEFT_SHIFT,Q",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "mainToggle": {
-      "keys": "LEFT_CONTROL,S",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "massCraft": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,C",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "moveCraftResults": {
-      "keys": "LEFT_CONTROL,M",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "moveStackToOffhand": {
-      "keys": "F",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "recipeView": {
-      "keys": "A",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": false
-      }
-    },
-    "slotDebug": {
-      "keys": "LEFT_CONTROL,LEFT_ALT,LEFT_SHIFT,I",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "storeRecipe": {
-      "keys": "BUTTON_3",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": true,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "throwCraftResults": {
-      "keys": "LEFT_CONTROL,T",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": false,
-        "exclusive": false,
-        "cancel": true
-      }
-    },
-    "villagerTradeFavorites": {
-      "keys": "",
-      "settings": {
-        "activate_on": "PRESS",
-        "context": "GUI",
-        "allow_empty": false,
-        "allow_extra_keys": false,
-        "order_sensitive": true,
         "exclusive": false,
         "cancel": true
       }

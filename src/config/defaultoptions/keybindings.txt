@@ -35,21 +35,26 @@ key_key.hotbar.9:key.keyboard.9:NONE
 key_key.big_items_duh.toggle-zoom:key.keyboard.left.bracket:NONE
 key_key.big_items_duh.hold-zoom:key.keyboard.unknown:NONE
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l:NONE
+key_key.gamma_utils.gamma_toggle:key.keyboard.g:NONE
+key_key.gamma_utils.increase_gamma:key.keyboard.up:NONE
+key_key.gamma_utils.decrease_gamma:key.keyboard.down:NONE
 key_key.cleanview.togglecleanview:key.keyboard.unknown:NONE
 key_key.crawl:key.keyboard.c:NONE
 key_key.dontdropit.dropStack:key.keyboard.left.control:NONE
 key_key.dontdropit.forceDrop:key.keyboard.left.alt:NONE
 key_key.dontdropit.toggleDropDelay:key.keyboard.unknown:NONE
+key_Toggle Brightness:key.keyboard.g:NONE
 key_iris.keybind.reload:key.keyboard.r:NONE
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
+key_key.restock.toggle:key.keyboard.apostrophe:NONE
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent:NONE
 key_key.veinmining.activate.desc:key.keyboard.unknown:NONE
 key_key.waila.config:key.keyboard.keypad.0:NONE
 key_key.waila.show_overlay:key.keyboard.keypad.1:NONE
 key_key.waila.toggle_liquid:key.keyboard.keypad.2:NONE
 key_key.waila.show_recipe_input:key.keyboard.keypad.3:NONE
 key_key.waila.show_recipe_output:key.keyboard.keypad.4:NONE
-key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent:NONE
 key_gui.xaero_open_map:key.keyboard.m:NONE
 key_gui.xaero_open_settings:key.keyboard.right.bracket:NONE
 key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE

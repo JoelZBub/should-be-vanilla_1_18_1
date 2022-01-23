@@ -2,6 +2,55 @@ Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
 
+Jan 19-22, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.4.1
+Minecraft Version : 1.18.1
+Fabric Version : 0.12.12
+
+-- Updated Mods --
+------------------
+Ambient Environment 7.0.3 to 7.0+17
+bclib - 1.2.4 to 1.2.5
+Better Nether - 6.0.8 to 6.0.9
+Controlling - 9.0.11 to 9.0+13
+Fabric API 0.46.1 to 0.46.2
+Iris - 1.1.5 to 1.2.0-pre
+Item Scroller - 1.18-0.15.0 to 1.18.1-0.15.0
+MaLiLib - 0.10.0-dev26 to 0.11.4
+Repurposed Structures - 3.3.0 to 3.3.3
+Xaero's World Map - 1.19.1 to 1.20.0
+
+
+-- Added Mods --
+----------------
+Feature NBT Deadlock Be Gone (TelepathicGrunt)
+No Null Processors (TelepathicGrunt)
+Rusty Iron (OrdanasInferno)
+
+--Removed/Disabled Mods --
+--------------------------
+LibMultiPart 
+Vanilla Parts - https://github.com/Juuxel/VanillaParts/issues/18
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+-- Customization -
+------------------
+
+
+
 Jan 18, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.4.0
@@ -80,6 +129,7 @@ Flonters (yoghurt4c)
 Gamma Utils (Sjouwer)
 Pet Transfer (emirik0l)
 Restock (DeflatedPickle)
+Slabby (TheMojoMonkey)
 Sodium Shadowy Path Blocks 
 	- Now compatibile with Sodium 0.4.0-Alpha6
 Vanilla Parts (Juicebus)
