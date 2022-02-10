@@ -22,10 +22,8 @@ You're in Grave Danger 1.2.14 to 1.2.16
 
 -- Added Mods --
 ----------------
-Pink (spoorn)
 Simply Cotton (tosiv)
-SpoornPacks (spoorn)
-Terrablender
+
 
 --Removed/Disabled Mods --
 --------------------------
