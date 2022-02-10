@@ -3,9 +3,34 @@ type = hud
 customization-meta {
   randomgroup = 1
   keepaspectratio = false
+  backgroundimage = kubejs/assets/minecraft/textures/gui/title/custom/title.jpg
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
-  backgroundcolor = 282828
+  backgroundcolor = 0x4F35D5
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  x = 0
+  action = editprogressbar
+  y = 0
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = false
+  x = -3
+  textcolor = #ffffff
+  action = addtext
+  actionid = 339d4e01-fb42-482f-bc46-346ea7726e521644175638327
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = "Incredibly Annoying Red Screen Goes Away" Status:
 }
 

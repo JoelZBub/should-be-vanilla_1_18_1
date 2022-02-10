@@ -129,7 +129,8 @@
     "wall_mushroom_red_2 [default: true]": true,
     "cincinnasite_hammer [default: true]": true,
     "nether_ruby_hammer [default: true]": true,
-    "cincinnasite_hammer_diamond [default: true]": true
+    "cincinnasite_hammer_diamond [default: true]": true,
+    "soul_sand_soul_sandstone [default: true]": true
   },
   "grid": {
     "crafting_table_crimson [default: true]": true,

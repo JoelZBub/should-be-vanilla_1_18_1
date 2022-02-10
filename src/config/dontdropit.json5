@@ -62,7 +62,6 @@
 			"minecraft:creeper_banner_pattern",
 			"minecraft:skull_banner_pattern",
 			"minecraft:mojang_banner_pattern",
-			"adorn:guide_book",
 			"blockus:nether_stars_block"
 		],
 		"enchantments": [

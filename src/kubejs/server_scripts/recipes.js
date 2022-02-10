@@ -2,12 +2,13 @@
 // ---------  --------- //
 
 onEvent('recipes', event => {
-  // --------- REMOVE WOOD TOOLS AND WEAPONS BY OUTPUT --------- //
-  event.remove({output: 'minecraft:wooden_axe'})
-  event.remove({output: 'minecraft:wooden_hoe'})
-  event.remove({output: 'minecraft:wooden_pickaxe'})
-  event.remove({output: 'minecraft:wooden_shovel'})
-  event.remove({output: 'minecraft:wooden_sword'})
+  // --------- REPLACE WOOD TOOLS AND WEAPONS BY OUTPUT --------- //
+  event.replaceOutput({}, 'minecraft:wooden_axe', 'kubejs:toy_axe')
+  event.replaceOutput({}, 'minecraft:wooden_hoe', 'kubejs:toy_hoe')
+  event.replaceOutput({}, 'minecraft:wooden_pickaxe', 'kubejs:toy_pickaxe')
+  event.replaceOutput({}, 'minecraft:wooden_shovel', 'kubejs:toy_shovel')
+  event.replaceOutput({}, 'minecraft:wooden_sword', 'kubejs:toy_sword')
+// --------- REMOVE WOOD TOOLS AND WEAPONS BY OUTPUT --------- //
   event.remove({output: 'vanilla-hammers:wooden_hammer'})
   event.remove({output: 'vanillaexcavators:wooden_excavator'})
 
@@ -23,5 +24,4 @@ onEvent('recipes', event => {
 
   // --------- ADD MISCELLANEOUS --------- //
   //event.shapeless(item.of('minecraft:slime_ball', 9), ['minecraft:honey_bottle', 'mechanicaltech:starch', 'croptopia:salt', 'croptopia:water_bottle', 'minecraft:green_dye'])
-
 })

@@ -2,7 +2,7 @@ Junk Pack Ideas
 ------------------------------------
 
 netherite elytra
-purpur bench breaks moving villagers
+purpur bench breaks moving villagers (more villagers mod)
 planks to buttonSSSSSSS
 more economical tool recipes
 stonecutter hurts
@@ -11,3 +11,5 @@ wool tweaks
 smoother bedrock
 More visibility option
 Emissive Textures
+break progress
+variant barrels and variant crafting tables mods
