@@ -51,8 +51,10 @@ textShadow = true
 adaptRenderer = false
 glowingGrave = false
 glowMinDistance = 10
+glowMaxDistance = 10
 [utilitySettings]
 soulboundEnchant = true
+deathSightEnchant = false
 teleportScroll = false
 [commandToggles]
 retrieveGrave = true
