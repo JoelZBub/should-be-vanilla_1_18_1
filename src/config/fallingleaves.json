@@ -324,6 +324,14 @@
     "betterend:cave_bush": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "spoornpink:dark_pink_blossom_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "spoornpink:pink_blossom_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],

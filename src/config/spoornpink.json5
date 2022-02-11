@@ -1,0 +1,6 @@
+{
+	/* Weight for this mod's biome region in the Overworld.  Higher number means more biomes from this mod will
+	   generate compared to other biomes.  [default = 4]
+	*/
+	"overworldWeight": 4
+}

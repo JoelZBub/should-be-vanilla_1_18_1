@@ -1,6 +1,47 @@
 Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
+
+Feb 10, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.6.2
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.1
+
+-- Updated Mods --
+------------------
+Simple Backpack 1.2.29 to 1.2.30
+You're in Grave Danger 1.2.16 to 1.2.17
+
+-- Added Mods --
+----------------
+SpoornPink
+SpoornPacks
+TerraBlender
+
+
+--Removed/Disabled Mods --
+--------------------------
+
+
+-- Config Changes --
+--------------------
+
+
+-- Script / Data Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
+-- Customization -
+------------------
+
+
+
 Feb 10, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.6.1
@@ -25,25 +66,6 @@ You're in Grave Danger 1.2.14 to 1.2.16
 Simply Cotton (tosiv)
 
 
---Removed/Disabled Mods --
---------------------------
-
-
--- Config Changes --
---------------------
-
-
--- Script / Data Changes --
---------------------
-
-
--- Asset Changes --
--------------------
-
-
-
--- Customization -
-------------------
 
 
 
