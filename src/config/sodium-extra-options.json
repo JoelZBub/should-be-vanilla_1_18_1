@@ -1,10 +1,10 @@
 {
   "animation_settings": {
     "animation": true,
-    "animate_water": true,
-    "animate_lava": true,
-    "animate_fire": true,
-    "animate_portal": true,
+    "water": true,
+    "lava": true,
+    "fire": true,
+    "portal": true,
     "block_animations": true
   },
   "particle_settings": {
@@ -26,6 +26,9 @@
     "block_breaking": true
   },
   "detail_settings": {
+    "sky": true,
+    "sun_moon": true,
+    "stars": true,
     "rain_snow": true,
     "biome_colors": true,
     "sky_colors": true

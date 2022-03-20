@@ -13,3 +13,4 @@ More visibility option
 Emissive Textures
 break progress
 variant barrels and variant crafting tables mods
+Durability Notifier

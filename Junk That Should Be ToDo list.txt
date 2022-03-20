@@ -1,3 +1,7 @@
 Junk That Should Be ToDo list
 ---------------------------------------------
+Fix recipes requiring wood Axe
+    -Carpenter's Table
+Hide Wood Tools	in REI
+localized name cotton crop
 

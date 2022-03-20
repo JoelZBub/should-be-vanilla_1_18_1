@@ -135,9 +135,6 @@
       "keys": ""
     }
   },
-  "color_modifiers": {
-    "outline": [],
-    "fill": []
-  },
+  "color_modifiers": {},
   "config_version": 1
 }

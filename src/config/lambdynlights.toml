@@ -232,6 +232,16 @@ mode = "fancy"
 			[light_sources.settings.entities.unvotedandshelved]
 				glare = true
 
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.biomemakeover]
+				decayed = true
+				dragonfly = true
+				lightning_bug = true
+				toad = true
+				lightning_bug_alternate = true
+
 			[light_sources.settings.entities.throwabletorch]
 				throwable_magma_torch = true
 				throwable_clay_torch = true
@@ -257,6 +267,9 @@ mode = "fancy"
 			[light_sources.settings.entities.guardiansgalore]
 				bear = true
 
+			[light_sources.settings.entities.ecologics]
+				coconut_crab = true
+
 			[light_sources.settings.entities.terraform]
 				boat = true
 
@@ -265,6 +278,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
+				copper_golem = true
 				moobloom = true
 
 			[light_sources.settings.entities.boatcontainer]
@@ -278,4 +292,46 @@ mode = "fancy"
 
 			[light_sources.settings.entities.sit]
 				entity_sit = true
+
+			[light_sources.settings.entities.wildlife]
+				snail = true
+				rhino_beetle = true
+				spicebush_butterfly = true
+				possum = true
+				ladybug = true
+				morpho_butterfly = true
+				dragonfly = true
+				robin = true
+				hermitcrab = true
+				iguana = true
+				king_snake = true
+				staghorn_beetle = true
+				armadillo = true
+				glasswing_butterfly = true
+				sparrow = true
+				lark = true
+				tiger_butterfly = true
+				beaver = true
+				phoebe = true
+				june_beetle = true
+				python = true
+				chameleon = true
+				swallow = true
+				flycatcher = true
+				ant = true
+				monarch_butterfly = true
+				stickbug = true
+				milk_snake = true
+				bluebird = true
+				sunflowerbeetle = true
+				badger = true
+				goldfinch = true
+				wren = true
+				gecko = true
+				hedgehog = true
+				cricket = true
+				ferret = true
+				white_eye = true
+				spider = true
+				crab = true
 
