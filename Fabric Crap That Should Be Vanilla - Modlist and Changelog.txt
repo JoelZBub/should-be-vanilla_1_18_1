@@ -2,9 +2,146 @@ Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
 
+April 30, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.7.1
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.3
+------------------------------------------------------------------------------
+
+
+-- Mod Freeze --
+----------------
+Spoorn Pink 2.3 (3.1 requires Spoorn Pack )
+
+-- Updated Mods --
+------------------
+Architectury 3.7.37 to 3.8.51
+Better Nether 6.0.11 to 6.0.12
+Blockus 2.3.10 to 2.3.11
+Capybara 1.0.1 to 1.0.4
+Crops Love Rain 1.2.1 to 1.2.2
+Fabric Hider 1.2 to 1.3
+Fabric Language Kotlin 1.6.10 to 1.6.21
+Grind Enchantments 1.5.0 to 1.6.3
+Konkrete Fabric 1.3.3 to 1.3.3-1
+Mcaw's Lights 1.0.2 to 1.0.3c
+Rhino Fabric 1801.1.9-131 to 1801.1.9-135
+Roughly Enough Items 7.3.443 to 7.4.456
+Simple Backpack 1.2.31 to 1.2.31.1
+
+
+
+-- Added Mods --
+----------------
+MyLoot (by spoorn)
+
+-- Removed Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+roughlyenoughitems/config.json5
+	filterdStacks (wooden tools)
+
+-- Script / Data Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
+March 24-31, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.7.0
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.3
+------------------------------------------------------------------------------
+
+-- Updated Mods --
+------------------
+Architectury 3.7.33 to 3.7.37
+Blockus 2.3.8 to 2.3.9 to 2.3.10
+Complete Config Lib 1.3.3 to 1.4.0
+Connectible Chains 2.0.1 to 2.1.0
+Crops Love Rain 1.2.0 to 1.2.1
+Croptopia 1.8.2 to 1.8.3
+Egg Tab 2.1.0 to 2.2.0
+Guard Villagers 1.0.10 to 1.0.11
+Polymorph 0.0.19 to 0.0.20
+Rhino 1801.1.8-102 to 1801.1.8-104 to 1801.1.9-131
+Sodium Shadowy Path Blocks 0.2.2 to 0.2.3
+Tom's Storage 1.1.19 to backport-1.3.0
+Trinkets 3.2.0 to 3.2.1
+WTHIT 4.5.4 to 4.5.5
+
+
+-- Added Mods --
+----------------
+Interactic
+
+-- Removed Mods --
+------------------
+Better Dropped Items
+
+-- Config Changes --
+--------------------
+
+
+-- Script / Data Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+March 20, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.7.0
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.3
+------------------------------------------------------------------------------
+
+
+-- Updated Mods --
+------------------
+Architectury 3.7.31 to 3.7.33
+Gimme Bundles 1.0.4 to 1.0.5
+
+-- Added Mods --
+----------------
+Break Progress
+Durability Notifier
+
+-- Removed Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+REI hid wooden tools
+
+
+-- Script / Data Changes --
+--------------------
+/kubejs/data/chipped/recipes/benches/carpenters_table.json
+	swapped wooden_axe for iron_axe
+
+
+-- Asset Changes --
+-------------------
+/kubejs/assets/ecologics/lang/en_us.json
+	"itemGroup.ecologics.ecologics": "Ecologics"
+/kubejs/assets/simplycotton/lang/en_us.json
+	"block.simplycotton.cotton_crop" : "Cotton Crop"
+
 Feb 11-March 19, 2022
 ------------------------------------------------------------------------------
-Pack Version : 0.6.2
+Pack Version : 0.7.0
 Minecraft Version : 1.18.1
 Fabric Version : 0.13.3
 
@@ -83,7 +220,9 @@ Yung's Extras
 
 -- Config Changes --
 --------------------
-
+config/fabrication/features.ini
+	[tweaks]
+		campfires_place_unlit=false
 
 -- Script / Data Changes --
 --------------------

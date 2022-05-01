@@ -7,5 +7,14 @@
 	"enableVoidpack": true,
 	"enableEnderpack": true,
 	"enableSimpleBundle": true,
-	"enableVoidBundle": true
+	"enableVoidBundle": true,
+	/* ***********************
+	   Backpack Safety
+	   - Does not allow opening a
+	   backpack if more than one is
+	   on the hotbar
+	   - This prevents posibble dup'ing
+	   ***********************
+	*/
+	"enableSingleBackpackOnHotbar": true
 }

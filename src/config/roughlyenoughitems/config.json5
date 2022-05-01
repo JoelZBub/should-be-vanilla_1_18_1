@@ -2,7 +2,7 @@
 	"basics": {
 		"favorites": [],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": "WHEN_CREATIVE",
 		"favoritesEnabled": true,
 		"keyBindings": {
 			"recipeKeybind": {
@@ -59,7 +59,13 @@
 			"filteringRules": [
 				"{id:\"roughlyenoughitems:manual\",rule:{}}"
 			],
-			"filteredStacks": []
+			"filteredStacks": [
+				"{Count:1b,id:\"minecraft:wooden_sword\",tag:{Damage:0},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"minecraft:wooden_shovel\",tag:{Damage:0},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"minecraft:wooden_hoe\",tag:{Damage:0},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"minecraft:wooden_axe\",tag:{Damage:0},type:\"minecraft:item\"}",
+				"{Count:1b,id:\"minecraft:wooden_pickaxe\",tag:{Damage:0},type:\"minecraft:item\"}"
+			]
 		},
 		"enableJeiCompatibilityLayer": true,
 		"tooltips": {
@@ -91,7 +97,9 @@
 			"compositeScrollBarPermanent": false,
 			"toastDisplayedOnCopyIdentifier": true,
 			// Declares whether REI should use compact tabs for categories.
-			"useCompactTabs": true
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": true
 		},
 		"search": {
 			// Declares whether search time should be debugged.
