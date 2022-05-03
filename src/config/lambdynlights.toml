@@ -241,7 +241,11 @@ mode = "fancy"
 			[light_sources.settings.entities.biomemakeover]
 				decayed = true
 				dragonfly = true
+				rootling = true
+				adjudicator = true
 				lightning_bug = true
+				owl = true
+				moth = true
 				toad = true
 				lightning_bug_alternate = true
 				bm_boat = true

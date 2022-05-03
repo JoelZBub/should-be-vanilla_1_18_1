@@ -7,7 +7,7 @@
 	},
 	"hunger": {
 		// Keep hunger on respawn.
-		"keep_hunger": false,
+		"keep_hunger": true,
 		// Keep saturation on respawn.
 		"keep_saturation": false,
 		/* The lowest hunger value on respawn.
@@ -25,7 +25,7 @@
 			/* The duration of the effect after respawning in seconds.
 			   Range: 0 ~ 2147483647
 			*/
-			"effect_duration": 300
+			"effect_duration": 0
 		}
 	},
 	"health": {

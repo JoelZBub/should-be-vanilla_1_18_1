@@ -2,6 +2,51 @@ Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
 
+May 3, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.7.1
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.3
+------------------------------------------------------------------------------
+
+
+-- Mod Freeze --
+----------------
+Spoorn Pink 2.3 (3.1 requires Spoorn Pack version not available?)
+
+-- Updated Mods --
+------------------
+Gamma Utils 1.5.6 to 1.5.7
+Wilder World 1.1.1 to 2.0.0
+
+-- Added Mods --
+----------------
+
+
+-- Removed Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+statskeeper.json5
+	"hunger": {
+		// Keep hunger on respawn.
+		"keep_hunger": true,      [default:false]
+		// An effect which blocks any kind of hunger replenishment while active.
+		"no_appetite": {
+			"effect_duration": 0  [default:300]
+
+
+-- Script / Data Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
 April 30, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.7.1
@@ -36,14 +81,14 @@ Simple Backpack 1.2.31 to 1.2.31.1
 ----------------
 MyLoot (by spoorn)
 
+
 -- Removed Mods --
 ------------------
 
 
 -- Config Changes --
 --------------------
-roughlyenoughitems/config.json5
-	filterdStacks (wooden tools)
+
 
 -- Script / Data Changes --
 --------------------
