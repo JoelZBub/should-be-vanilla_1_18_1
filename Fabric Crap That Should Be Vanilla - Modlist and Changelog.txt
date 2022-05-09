@@ -2,17 +2,53 @@ Fabric Crap 1.18.1 - Modpack Changelog
 ------------------------------------------------------------------------------
 
 
+May 8, 2022
+------------------------------------------------------------------------------
+Pack Version : 0.7.2
+Minecraft Version : 1.18.1
+Fabric Version : 0.13.3
+------------------------------------------------------------------------------
+
+-- Updated Mods --
+------------------
+Architectury 3.8.51 to 3.9.57
+Just an End Anchor 1.0.1 to 1.0.2
+You're in Grave Danger 1.2.22 to 1.2.25
+
+
+-- Added Mods --
+----------------
+
+
+-- Removed Mods --
+------------------
+
+
+-- Config Changes --
+--------------------
+durabilitynotifier.toml
+	[general]
+		percentage = 5
+	[sound]
+		playSound = false
+Brightness set to %50
+
+
+-- Script / Data Changes --
+--------------------
+
+
+-- Asset Changes --
+-------------------
+
+
+
 May 3, 2022
 ------------------------------------------------------------------------------
 Pack Version : 0.7.1
 Minecraft Version : 1.18.1
 Fabric Version : 0.13.3
 ------------------------------------------------------------------------------
-
-
--- Mod Freeze --
-----------------
-Spoorn Pink 2.3 (3.1 requires Spoorn Pack version not available?)
 
 -- Updated Mods --
 ------------------

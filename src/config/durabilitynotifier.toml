@@ -1,9 +1,9 @@
 [general]
-percentage = 10
+percentage = 5
 [message]
 sendMessage = true
 messageColor = "YELLOW"
 [sound]
-playSound = true
+playSound = false
 soundLocation = "minecraft:block.note_block.pling"
 volume = 0.6
