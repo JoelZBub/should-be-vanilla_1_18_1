@@ -45,7 +45,7 @@
 		// Whether or not to stop vein mining when the tool can no longer be used
 		"limitedByDurability": true,
 		// Whether to activate vein mining by standing, crouching, or holding down the keybind ("STANDING", "CROUCHING", "KEYBINDING")
-		"activationState": "STANDING",
+		"activationState": "CROUCHING",
 		// List of whitelisted/blacklisted blocks or block tags
 		"blocks": [],
 		// Whether the blocks configuration is a whitelist or a blacklist ("WHITELIST", "BLACKLIST")

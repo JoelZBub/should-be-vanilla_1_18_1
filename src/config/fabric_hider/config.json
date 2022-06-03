@@ -11,5 +11,8 @@
     "Indigo",
     "Compatibility",
     "mods"
-  ]
+  ],
+  "hideClient": true,
+  "hideServer": true,
+  "showResourcePack": false
 }
